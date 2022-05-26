@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "knkqYssycBpINinqf8QgjNpSeHuEa6PiM9YfqETsNBg=",
+  "Source": "demo-azure",
+  "BasePath": "_content/demo-azure",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
